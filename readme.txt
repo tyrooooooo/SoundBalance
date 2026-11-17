@@ -45,3 +45,5 @@ Build from Source
 1. Install Visual Studio with the "Desktop development with C++" workload.
 2. Double-click build.bat.
 3. SoundBalance.exe will be built as a standalone executable.
+
+~ Built with Gemini
